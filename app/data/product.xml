@@ -1,0 +1,135 @@
+<xml version="1.0" encoding="UTF-8">
+  <data>
+    <product>
+      <id>path-to-exile</id>
+      <name>Path to Exile</name>
+      <image>http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370408&amp;type=card</image>
+      <price>4,50</price>
+      <details>
+        <dl>
+          <dt>Mana cost</dt>
+          <dd><img alt="White" src="http://gatherer.wizards.com/Handlers/Image.ashx?size=medium&amp;name=W&amp;type=symbol" /></dd>
+          <dt>Types</dt>
+          <dd>Instant</dd>
+          <dt>Card Text</dt>
+          <dd>
+            <p>Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.</p>
+          </dd>
+        </dl>
+      </details>
+    </product>
+
+    <product>
+      <id>vendilion-clique</id>
+      <name>Vendilion Clique</name>
+      <image>http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370390&amp;type=card</image>
+      <price>28,75</price>
+      <details>
+        <dl>
+          <dt>Mana cost</dt>
+          <dd>
+            <img src="http://gatherer.wizards.com/Handlers/Image.ashx?size=medium&amp;name=1&amp;type=symbol" alt="1" />
+            <img src="http://gatherer.wizards.com/Handlers/Image.ashx?size=medium&amp;name=U&amp;type=symbol" alt="Blue" />
+            <img src="http://gatherer.wizards.com/Handlers/Image.ashx?size=medium&amp;name=U&amp;type=symbol" alt="Blue" /></dd>
+          <dt>Types</dt>
+          <dd>Legendary Creature — Faerie Wizard</dd>
+          <dt>Card Text</dt>
+          <dd>
+            <p>Flash</p>
+            <p>Flying</p>
+            <p>When Vendilion Clique enters the battlefield, look at target player's hand. You may choose a nonland card from it. If you do, that player reveals the chosen card, puts it on the bottom of his or her library, then draws a card.</p>
+          </dd>
+        </dl>
+      </details>
+    </product>
+
+    <product>
+      <id>dark-confidant</id>
+      <name>Dark Confidant</name>
+      <image>http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370413&amp;type=card</image>
+      <price>43,50</price>
+      <details>
+        <dl>
+          <dt>Mana cost</dt>
+          <dd>
+            <img alt="1" src="http://gatherer.wizards.com/Handlers/Image.ashx?size=medium&amp;name=1&amp;type=symbol" />
+            <img alt="Black" src="http://gatherer.wizards.com/Handlers/Image.ashx?size=medium&amp;name=B&amp;type=symbol" /></dd>
+          <dt>Types</dt>
+          <dd>Creature — Human Wizard</dd>
+          <dt>Card Text</dt>
+          <dd>
+            <p>At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost.</p>
+          </dd>
+        </dl>
+      </details>
+    </product>
+
+    <product>
+      <id>blood-moon</id>
+      <name>Blood Moon</name>
+      <image>http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370419&amp;type=card</image>
+      <price>7,20</price>
+      <details>
+        <dl>
+          <dt>Mana cost</dt>
+          <dd>
+            <img alt="2" src="http://gatherer.wizards.com//Handlers/Image.ashx?size=medium&amp;name=2&amp;type=symbol" />
+            <img alt="Red" src="http://gatherer.wizards.com/Handlers/Image.ashx?size=medium&amp;name=R&amp;type=symbol" />
+          </dd>
+          <dt>Types</dt>
+          <dd>Enchantment</dd>
+          <dt>Card Text</dt>
+          <dd>
+            <p>Nonbasic lands are Mountains.</p>
+          </dd>
+        </dl>
+      </details>
+    </product>
+
+    <product>
+      <id>tarmogoyf</id>
+      <name>Tarmogoyf</name>
+      <image>http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370404&amp;type=card</image>
+      <price>92,00</price>
+      <details>
+        <dl>
+          <dt>Mana cost</dt>
+          <dd>
+            <img src="http://gatherer.wizards.com/Handlers/Image.ashx?size=medium&amp;name=1&amp;type=symbol" alt="1" />
+            <img src="http://gatherer.wizards.com/Handlers/Image.ashx?size=medium&amp;name=G&amp;type=symbol" alt="Green" />
+          </dd>
+          <dt>Types</dt>
+          <dd>Creature — Lhurgoyf</dd>
+          <dt>Card Text</dt>
+          <dd>
+            <p>Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.</p>
+          </dd>
+        </dl>
+      </details>
+    </product>
+
+    <product>
+      <id>chalice-of-the-void</id>
+      <name>Chalice of the Void</name>
+      <image>http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370411&amp;type=card</image>
+      <price>3,90</price>
+      <details>
+        <dl>
+          <dt>Mana cost</dt>
+          <dd>
+            <img src="http://gatherer.wizards.com/Handlers/Image.ashx?size=medium&amp;name=X&amp;type=symbol" alt="Variable Colorless" />
+            <img src="http://gatherer.wizards.com/Handlers/Image.ashx?size=medium&amp;name=X&amp;type=symbol" alt="Variable Colorless" />
+          </dd>
+          <dt>Types</dt>
+          <dd>Artifact</dd>
+          <dt>Card Text</dt>
+          <dd>
+            <p>Chalice of the Void enters the battlefield with X charge counters on it.</p>
+            <p>Whenever a player casts a spell with converted mana cost equal to the number of charge counters on Chalice of the Void, counter that spell.</p>
+          </dd>
+        </dl>
+      </details>
+    </product>
+
+  </data>
+</xml>
