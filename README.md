@@ -36,6 +36,6 @@ Inside **app**:
 
 Motivation
 -----------
-I originally developed XMLSite as a solution for Jazztel spanish telecom. They had a multisite wordpress where every site was a different landing within the same domain with almost the same data, except some contact data and analytics code. Frontend developers maintained the code and also the content changes, which was a real pain replicating those changes in all sites. The inherited wordpress had been hardcoded and wasn't well built, but the key point was: we don't really need a cms with no users, except developers, and there weren't large amounts of data.
+I originally developed XMLSite as a solution for Jazztel Spanish telecom. They had a multisite wordpress where every site was a different landing within the same domain with almost the same data, except some contact data and analytics code. Frontend developers maintained the code and also the content changes, which was a real pain replicating those changes in all sites. The inherited wordpress had been hardcoded and wasn't well built, but the key point was: we don't really need a cms with no users, except developers, and there weren't large amounts of data.
 
 So I came up with this solution which my fronted colleagues really appreciated, they could just do the front stuff and change the data in the xml files; all versioned in the git repository, and move it through development and production enviroment servers just with a git pull. Faster than ever.
