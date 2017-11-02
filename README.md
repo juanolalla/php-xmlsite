@@ -31,7 +31,7 @@ Inside **core**:
 * **data_manager**: Necessary data managing functions that need to be loaded on every request.
 
 Inside **app**:
-* **data**: XML data documents. There are two sub-directories: **config** (with a required site_settings.xml file) to place your configuration data, and **content**, to place your content data.
+* **data**: XML data documents, and HTML files for pieces of content (i.e. articles). There are two sub-directories: **config** (with a required site_settings.xml file) to place your configuration data, and **content**, to place your content data.
 * **pages**: The .php files associated to pages, for example pages/contact.php it's loaded by default for the example.com/contact url.
 * **templates**: The pieces of HTML code to include thorough the pages. You may also create page or teaser templates for dynamic entity data in subfolders like catalog/product-id.
 
