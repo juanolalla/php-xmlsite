@@ -1,4 +1,4 @@
-<script type="text/javascript" src="<?php print BASE_PATH; ?>js/script.js"></script>
+<script type="text/javascript" src="<?php print base_path(); ?>assets/js/script.js"></script>
 
 <script type="text/javascript">
     var _gaq = _gaq || [];

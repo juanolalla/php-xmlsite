@@ -1,0 +1,46 @@
+<xml version="1.0" encoding="UTF-8">
+  <data>
+    <article>
+      <id>how-to-foo</id>
+      <title>How to blow your enemies</title>
+      <pageTitle>Blowing your enemies by Cersei Lannister</pageTitle>
+      <teaser><![CDATA[
+        <p>Vehicula ipsum a arcu cursus vitae congue. Convallis posuere morbi leo urna molestie at elementum eu. Orci dapibus ultrices in iaculis nunc sed. Risus in hendrerit gravida rutrum.</p>
+      ]]></teaser>
+      <author>
+        <id>cersei-lannister</id>
+        <name>Cersei Lannister</name>
+      </author>
+      <date>04/27/2016</date>
+    </article>
+
+    <article>
+      <id>how-to-bar</id>
+      <title>How to kill a night walker</title>
+      <pageTitle>Killing night walkers by John Snow</pageTitle>
+      <teaser><![CDATA[
+        <p>Id porta nibh venenatis cras. Malesuada nunc vel risus commodo viverra maecenas accumsan lacus vel. Dictum varius duis at consectetur lorem donec massa sapien faucibus. Neque laoreet suspendisse interdum consectetur. Sed viverra ipsum nunc aliquet bibendum enim facilisis. Mollis aliquam ut porttitor leo a diam sollicitudin tempor id. Id faucibus nisl tincidunt eget nullam non nisi est sit. Quis blandit turpis cursus in.</p>
+      ]]></teaser>
+      <author>
+        <id>john-snow</id>
+        <name>John Snow</name>
+      </author>
+      <date>02/25/2014</date>
+    </article>
+
+    <article>
+      <id>how-to-baz</id>
+      <title>How to raise three dragons</title>
+      <pageTitle>Raising three dragons by Daenerys</pageTitle>
+      <teaser><![CDATA[
+        <p>Lobortis feugiat vivamus at augue eget. Neque ornare aenean euismod elementum nisi quis eleifend. Egestas pretium aenean pharetra magna ac placerat vestibulum. Malesuada fames ac turpis egestas integer eget aliquet nibh praesent. Cras semper auctor neque vitae tempus. Massa id neque aliquam vestibulum morbi blandit. Tincidunt augue interdum velit euismod. Nulla pharetra diam sit amet nisl suscipit. Eu sem integer vitae justo eget. Ornare suspendisse sed nisi lacus sed viverra tellus in hac.</p>
+      ]]></teaser>
+      <author>
+        <id>daenerys-targaryen</id>
+        <name>Daenerys Targaryen</name>
+      </author>
+      <date>12/30/2012</date>
+    </article>
+
+  </data>
+</xml>

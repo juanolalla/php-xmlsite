@@ -25,9 +25,16 @@ function print_product_page($product_id) {
   global $site;
   $product = data_find('product', $product_id);
   if ($product) {
-    require('app/templates/catalog/page.php');
+    require_once(APP_PATH . 'templates/catalog/page.php');
   }
   else {
     page_not_found();
   }
+}
+
+/**
+ * Print the specified article teaser from the teasers template.
+ */
+function print_article_teaser($id) {
+  print_template('article/teaser', array('article' => data_find('article', $id)));
 }
