@@ -2,7 +2,7 @@
 
 /**
  * @file
- * This file declares path constants and require other files.
+ * This file declares path constants and requires other files.
  */
 // Obtain BASE_PATH.
 $request_uri = dirname($_SERVER['SCRIPT_NAME']);
