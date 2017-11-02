@@ -19,7 +19,7 @@ Why not use XMLSite
 
 How to use it
 --------------
-The code comes with an example website. Use it as a reference guide to develop yours. Just delete and change whatever you need within the app and the assets folder. But don't delete app/init.php neither app/data/config/site_settings!
+The code comes with an example website. Use it as a reference guide to develop yours. Just delete and change whatever you need within the app and the assets folder. But don't delete app/init.php neither app/data/config/site_settings.xml!
 
 Structure
 ----------
